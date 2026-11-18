@@ -1,0 +1,22 @@
+{
+  "source": "huadong-site",
+  "region": "华东",
+  "observedAt": "2026-11-04T08:00:00.000Z",
+  "items": [
+    {
+      "id": "HD-XJ100-500",
+      "label": "鲜精 XJ-100 500克装",
+      "model": "XJ-100",
+      "spec": "500g",
+      "state": "active",
+      "revision": 5,
+      "price": {
+        "amount": 33,
+        "currency": "CNY",
+        "kind": "promo",
+        "validFrom": "2026-11-01T00:00:00.000Z",
+        "validUntil": "2026-11-05T23:59:59.000Z"
+      }
+    }
+  ]
+}

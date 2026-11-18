@@ -1,8 +1,0 @@
-{
-  "source": "sample-2",
-  "observedAt": "2026-11-17T08:00:00.000Z",
-  "items": [
-    {"id": "2-A", "label": "区域商品目录样例甲", "state": "active", "revision": 1},
-    {"id": "2-B", "label": "区域商品目录样例乙", "state": "pending", "revision": 1}
-  ]
-}

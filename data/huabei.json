@@ -1,0 +1,31 @@
+{
+  "source": "huabei-site",
+  "region": "华北",
+  "observedAt": "2026-11-18T08:05:00.000Z",
+  "items": [
+    {
+      "id": "HB-XJ100-500",
+      "label": "鲜精 XJ-100 500克装",
+      "model": "XJ-100",
+      "spec": "500g",
+      "state": "active",
+      "revision": 4,
+      "price": {
+        "amount": 36.5,
+        "currency": "CNY",
+        "kind": "promo",
+        "validFrom": "2026-11-01T00:00:00.000Z",
+        "validUntil": "2026-11-10T23:59:59.000Z"
+      }
+    },
+    {
+      "id": "HB-XJ100-1KG",
+      "label": "鲜精 XJ-100 1千克装",
+      "model": "XJ-100",
+      "spec": "1kg",
+      "state": "active",
+      "revision": 2,
+      "price": { "amount": 79, "currency": "CNY", "kind": "regular" }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "source": "huadong-site",
+  "region": "华东",
+  "observedAt": "2026-11-18T08:10:00.000Z",
+  "items": [
+    {
+      "id": "HD-XJ100-500",
+      "label": "鲜精 XJ-100 500克装",
+      "model": "XJ-100",
+      "spec": "500g",
+      "state": "active",
+      "revision": 6,
+      "price": { "amount": 42, "currency": "CNY", "kind": "regular" }
+    },
+    {
+      "id": "HD-XJ100-1KG",
+      "label": "鲜精 XJ-100 1千克装",
+      "model": "XJ-100",
+      "spec": "1kg",
+      "state": "active",
+      "revision": 3,
+      "price": {
+        "amount": 75,
+        "currency": "CNY",
+        "kind": "promo",
+        "validFrom": "2026-11-15T00:00:00.000Z",
+        "validUntil": "2026-11-30T23:59:59.000Z"
+      }
+    }
+  ]
+}
